@@ -16,5 +16,18 @@ namespace KnjiznicaMw
         {
             InitializeComponent();
         }
+
+        private void btnDodaj_Click(object sender, EventArgs e)
+        {
+            DetaljiUcenika du = new DetaljiUcenika(); //du je skraceno za DetaljiUcenika
+            this.Hide();
+            du.ShowDialog();
+            this.Show();
+        }
+
+        private void lbU_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

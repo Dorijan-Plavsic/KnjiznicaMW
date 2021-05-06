@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace KnjiznicaMw
@@ -15,6 +9,19 @@ namespace KnjiznicaMw
         public DetaljiUcenika()
         {
             InitializeComponent();
+        }
+
+        private void btnDodajUcenika_Click(object sender, EventArgs e)
+        {
+            StreamWriter sw = new StreamWriter(Application.StartupPath + "\\Ucenici\\" + tbIme.Text + " " + tbPrezime.Text + ".txt");
+
+            sw.WriteLine(tbOIB.Text + "|" + tbIme.Text + "|" + tbPrezime.Text + "|" + tbAdresa.Text + "|" + tbTelefon.Text + "|" + cbRazred.Text);
+            sw.Close();
+            
+            
+
+            
+
         }
     }
 }

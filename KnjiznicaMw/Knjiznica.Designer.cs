@@ -78,6 +78,7 @@ namespace KnjiznicaMw
             this.btnUcenici.TabIndex = 3;
             this.btnUcenici.Text = "Učenici";
             this.btnUcenici.UseVisualStyleBackColor = true;
+            this.btnUcenici.Click += new System.EventHandler(this.btnUcenici_Click);
             // 
             // btnKnjige
             // 

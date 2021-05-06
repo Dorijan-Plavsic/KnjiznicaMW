@@ -173,6 +173,7 @@ namespace KnjiznicaMw
             this.btnDodajUcenika.TabIndex = 12;
             this.btnDodajUcenika.Text = "Dodaj učenika";
             this.btnDodajUcenika.UseVisualStyleBackColor = true;
+            this.btnDodajUcenika.Click += new System.EventHandler(this.btnDodajUcenika_Click);
             // 
             // DetaljiUcenika
             // 

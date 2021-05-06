@@ -53,6 +53,7 @@ namespace KnjiznicaMw
             this.lbU.Name = "lbU";
             this.lbU.Size = new System.Drawing.Size(281, 329);
             this.lbU.TabIndex = 2;
+            this.lbU.SelectedIndexChanged += new System.EventHandler(this.lbU_SelectedIndexChanged);
             // 
             // btnDodaj
             // 
@@ -62,6 +63,7 @@ namespace KnjiznicaMw
             this.btnDodaj.TabIndex = 7;
             this.btnDodaj.Text = "Dodaj";
             this.btnDodaj.UseVisualStyleBackColor = true;
+            this.btnDodaj.Click += new System.EventHandler(this.btnDodaj_Click);
             // 
             // btnUredi
             // 

@@ -12,6 +12,8 @@ namespace KnjiznicaMw
 {
     public partial class Knjiznica : Form
     {
+    
+
         public Knjiznica()
         {
             InitializeComponent();
@@ -21,5 +23,17 @@ namespace KnjiznicaMw
         {
 
         }
+
+        private void btnUcenici_Click(object sender, EventArgs e)
+        {
+
+            Ucenici ucenici = new Ucenici();
+            this.Hide();
+            ucenici.ShowDialog();
+            this.Show();
+
+        }
+
+
     }
 }

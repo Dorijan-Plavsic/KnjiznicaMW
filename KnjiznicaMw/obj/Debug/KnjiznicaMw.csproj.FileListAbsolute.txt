@@ -1,0 +1,12 @@
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\bin\Debug\KnjiznicaMw.exe.config
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\bin\Debug\KnjiznicaMw.exe
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\bin\Debug\KnjiznicaMw.pdb
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.csprojAssemblyReference.cache
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.DetaljiUcenika.resources
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.Knjiznica.resources
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.Properties.Resources.resources
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.Ucenici.resources
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.csproj.GenerateResource.cache
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.csproj.CoreCompileInputs.cache
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.exe
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.pdb
