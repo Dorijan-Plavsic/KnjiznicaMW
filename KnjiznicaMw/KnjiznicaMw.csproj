@@ -52,6 +52,12 @@
     <Compile Include="DetaljiUcenika.Designer.cs">
       <DependentUpon>DetaljiUcenika.cs</DependentUpon>
     </Compile>
+    <Compile Include="Knjige.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Knjige.Designer.cs">
+      <DependentUpon>Knjige.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ucenici.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DetaljiUcenika.resx">
       <DependentUpon>DetaljiUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Knjige.resx">
+      <DependentUpon>Knjige.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Knjiznica.resx">
       <DependentUpon>Knjiznica.cs</DependentUpon>

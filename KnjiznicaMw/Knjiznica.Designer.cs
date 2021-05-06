@@ -88,6 +88,7 @@ namespace KnjiznicaMw
             this.btnKnjige.TabIndex = 4;
             this.btnKnjige.Text = "Knjige";
             this.btnKnjige.UseVisualStyleBackColor = true;
+            this.btnKnjige.Click += new System.EventHandler(this.btnKnjige_Click);
             // 
             // lbPK
             // 

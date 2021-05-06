@@ -34,6 +34,12 @@ namespace KnjiznicaMw
 
         }
 
-
+        private void btnKnjige_Click(object sender, EventArgs e)
+        {
+            Knjige knjige = new Knjige();
+            this.Hide();
+            knjige.ShowDialog();
+            this.Show();
+        }
     }
 }

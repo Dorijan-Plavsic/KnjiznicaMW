@@ -10,3 +10,4 @@ C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.csp
 C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.csproj.CoreCompileInputs.cache
 C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.exe
 C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.pdb
+C:\Users\DIREKTOR\source\repos\KnjiznicaMw\KnjiznicaMw\obj\Debug\KnjiznicaMw.Knjige.resources
